@@ -1,0 +1,46 @@
+header h1 {
+  text-align: center;
+}
+main h2 {
+  color: black;
+  font-size: medium;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body {
+  background-color: gold;
+}
+
+ul {
+  margin: 20px 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin: 5px 0;
+  padding-left: 20px;
+}
+image {
+  border: 20;
+}
+
+article.satu {
+  background-color: aqua;
+  color: black;
+  font-size: medium;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+  border: 50px;
+  padding: 20px 40px;
+  margin: 10px 5px;
+}
+article.dua {
+  background-color: rgb(255, 145, 0);
+  color: blue;
+  font-size: 24px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: lighter;
+  border: 20px;
+  padding: 10px 30px;
+  margin: 20px 50px;
+}
